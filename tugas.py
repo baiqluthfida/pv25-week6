@@ -6,7 +6,7 @@ from PyQt5.QtGui import QFont, QColor
 class FontAdjuster(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Font & Background Adjuster - Baiq Luthfida Khairunnisa F1D022037")
+        self.setWindowTitle("Baiq Luthfida Khairunnisa F1D022037")
         self.setGeometry(100, 100, 600, 400)
 
         self.nim = "F1D022037"
